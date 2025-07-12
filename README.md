@@ -20,13 +20,13 @@ Datasets:
 
 
 
-Emotion.csv: Text labeled with six emotion categories.
+Emotion.csv: Text labeled with six emotion categories.https://www.kaggle.com/datasets/nelgiriyewithana/emotions
 
 
 
-Violence.csv: Text labeled with five violence types.
+Violence.csv: Text labeled with five violence types.https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification
 
-Hate.csv    :  Text labled with three hates types.
+Hate.csv    :  Text labled with three hates types.https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
 
 
 
